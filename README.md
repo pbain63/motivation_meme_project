@@ -7,4 +7,4 @@ https://pbain63.github.io/motivation_meme_project
 
 
 
-Technology: HTML, CSS
+Technology: HTML5, CSS
